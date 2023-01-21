@@ -1,16 +1,16 @@
-baseurl: '/'
+baseurl: '/rclsa/'
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'Rafael Coelho Lopes de Sa'
 
 logo:
-  mobile: "images/logo/logo-mobile.svg"
+  mobile: "images/umass.jpg"
   mobile_height: "32px"
   mobile_width: "32px"
-  desktop: "images/logo/logo.svg"
+  desktop: "images/umass.jpg"
   desktop_height: "32px"
-  desktop_width: "120px"
+  desktop_width: "32px"
 
-home: 
+home:
   limit_services: 6
 
 collections:
@@ -19,6 +19,9 @@ collections:
     sort_by: weight
   team:
     output: true
+  news:
+    output: true
+    sort_by: date
 
 defaults:
   - scope:
@@ -31,6 +34,11 @@ defaults:
       type: "team"
     values:
       layout: "team"
+  - scope:
+      path: ""
+      type: "news"
+    values:
+      layout: "news"
 
 sass:
   style: compressed # possible values: nested expanded compact compressed
@@ -49,3 +57,6 @@ exclude:
   - LICENSE.md
   - LICENSE
   - README.md
+
+# Build settings
+markdown: kramdown

@@ -1,21 +1,33 @@
 main:
-  - name: "Services"
+  - name: "Activities"
     url: "/services/"
     weight: 2
   - name: "Team"
     url: "/team/"
     weight: 3
-  - name: "About"
-    url: "/about/"
+  - name: "News"
+    url: "/services/announcements/"
     weight: 4
+  - name: "CV"
+    url: "/about/"
+    weight: 5
   - name: "Contact"
     url: "/contact/"
-    weight: 5
+    weight: 6
 
 footer:
-  - name: "Home"
-    url: "/"
+  - name: "UMass Amherst"
+    url: "https://www.umass.edu/"
     weight: 1
-  - name: "Contact"
-    url: "/contact/"
+  - name: "UMass Physics"
+    url: "https://www.physics.umass.edu/"
     weight: 2
+  - name: "UMass ATLAS"
+    url: "http://blogs.umass.edu/eppex"
+    weight: 3
+  - name: "ATLAS"
+    url: "https://atlas.cern/"
+    weight: 5
+  - name: "US-ATLAS"
+    url: "https://www.usatlas.org/"
+    weight: 4

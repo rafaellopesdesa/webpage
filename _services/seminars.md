@@ -13,14 +13,30 @@ Conferences and seminars are clearly described.
 
 ## 2023
 
+**Measurement of the off-shell Higgs production with the ATLAS detector and the Higgs width.**<br>
+SCIPP Seminar, Universtiy of California at Santa Cruz, CA, 2023.
+
 **Exploring EW symmetry breaking: Higgs, vector bosons, and top quarks**<br>
 APS April 2023: American Physical Society April Meeting 2023, Minneapolis, Minnesota, 2023.
 
+**ATLAS data analysis using a parallelized workflow on distributed cloud-based services with GPUs**<br>
+CHEP 2023: 26th International Conference on Computing in High Energy & Nuclear Physics, Norfolk, VA, 2023.<br>
+*Speaker*: Jay Sandesara
+
+**Quantum entanglement in ZZ leptonic decay channels**<br>
+Foundational tests of Quantum Mechanics at the LHC.<br>
+*Speaker*: Martina Javurkova
+
+**Searches for BSM Physics in ATLAS**<br>
+LISHEP 2023: International School in High Energy Physics, Rio de Janeiro, Brazil, 2023.
+
 **Evolving Research Software towards Next-Generation High-Energy Physics Experiments**<br>
-Bose National Center for Basic Science & Saha Institute for Fundamental Research, Kolkata, India, 2023.<br>
+Bose National Center for Basic Science, Kolkata, India, 2023.<br>
+Saha Institute for Fundamental Research, Kolkata, India, 2023.<br>
+Aligarh Muslim University, Aligarh, India, 2023.
 
 **Results from muon reconstruction performance with ATLAS at Run-3**<br>
-8th International Conference on High Energy Physics in the LHC Era<br>
+8th International Conference on High Energy Physics in the LHC Era, Valparaiso, Chile, 2023.<br>
 *Speaker*: Will Leight
 
 ## 2022

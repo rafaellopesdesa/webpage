@@ -12,8 +12,8 @@ List of all publications: [ORCID 0000-0001-5200-9195](https://inspirehep.net/aut
 
 ## 2022
 
-**Evidence of off-shell Higgs boson production and constraints on the total width of the Higgs boson in the $$ZZ\rightarrow 4\ell$$ and $$ZZ\rightarrow 2\ell 2\nu$$ decay channels with the ATLAS detector.**<br>
-[ATLAS Collaboration, https://cds.cern.ch/record/2838536](https://cds.cern.ch/record/2838536)
+**Evidence of off-shell Higgs boson production from $$ZZ$$ leptonic decay channels and constraints on its total width with the ATLAS detector.**<br>
+[ATLAS Collaboration, Submitted to Phys Lett B, https://arxiv.org/abs/2304.01532](https://arxiv.org/abs/2304.01532)
 
 **DeXTer: Deep Sets based Neural Networks for Low-$$p_{T}$$ $$X \rightarrow $$ $$b\bar{b}$$ Identification in ATLAS.**<br>
 [ATLAS Collaboration, https://cds.cern.ch/record/2825434](https://cds.cern.ch/record/2825434)

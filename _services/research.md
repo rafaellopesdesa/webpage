@@ -18,6 +18,10 @@ Here you find my current and past research results in ATLAS. For my past researc
 
 ## Searches for new low mass states in $$t\bar{t}a, a\to bb/\mu\mu$$ events
 
+| ![tta searches]({{"/images/ttamumu.png" | relative_url }}){: width="3500" } | In models of Higgs portals, the new scalar inherits Yukawa couplings from the SM Higgs and couples strongly to the top quark. We are exploring, for the first time, the process $$t\bar{t}a$$. This process is similar to $$t\bar{t}H$$, but with a low mass state which can deay to a pair of $$b$$-quarks ($$bb$$) or muons $$\mu\mu$$. The first result, with muons, has just been submitted for publication. The result with $$a$$ bosons decaying to $bb$$ will be published later in the summer. <br><br>**Participants**: Shreya Saha, Yuan-Tang Chou<br>**Collaborators**: Mc Gill, IFAE |
+
+
+
 ## Searches for exotic Higgs decays in the $$H\to aa\to 4b/2b2\tau/4\tau$$ final-state
 
 | ![Exotic Higgs Decays]({{"/images/exotic_summary.png" | relative_url }}){: width="5000" } | Our team is perfoming several searches for exotic Higgs decays. The final states we are investigating have the highest branching ratios in Higgs portal models. These new particles in exotic Higgs decays can be the mediator of dark matter interactions and can trigger strong first order EW phase transitions, which can explain the baryon-antibaryon asymmetry of the university. When the new state has low mass, the searches are challenging since the decay products merge in the detector. Our team is developing dedicated tools to identify low-$$p_T$$ merged decays.<br><br>**Participants**: Yuan-Tang Chou, Yikai Wu<br>**Collaborators**: DESY, IFAE, U. Michigan, SLAC |

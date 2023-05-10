@@ -10,13 +10,21 @@ List of publications where our team members where one of the primary authors.
 
 List of all publications: [ORCID 0000-0001-5200-9195](https://inspirehep.net/authors/1065979?ui-citation-summary=true)
 
+## 2023
+
+**Effective field theory interpretation of off-shell Higgs boson in the $ZZ\rightarrow 4\ell$ and $ZZ\rightarrow 2\ell 2\nu$ decay channels with the ATLAS detector.**<br>
+[ATLAS Collaboration, ATL-PHYS-PUB-2023-0XX](https://cds.cern.ch/record/2855477)
+
+**Search for a new pseudoscalar decaying into a pair of muons in events with a top-quark pair at $$\sqrt{s}=13$$ TeV with the ATLAS detector**<br>
+[ATLAS Collaboration, Submitted to Phys Rev D, arXiv:2304.14247](https://arxiv.org/abs/2304.14247)
+
 ## 2022
 
 **Evidence of off-shell Higgs boson production from $$ZZ$$ leptonic decay channels and constraints on its total width with the ATLAS detector.**<br>
-[ATLAS Collaboration, Submitted to Phys Lett B, https://arxiv.org/abs/2304.01532](https://arxiv.org/abs/2304.01532)
+[ATLAS Collaboration, Submitted to Phys Lett B, arXiv:2304.01532](https://arxiv.org/abs/2304.01532)
 
 **DeXTer: Deep Sets based Neural Networks for Low-$$p_{T}$$ $$X \rightarrow $$ $$b\bar{b}$$ Identification in ATLAS.**<br>
-[ATLAS Collaboration, https://cds.cern.ch/record/2825434](https://cds.cern.ch/record/2825434)
+[ATLAS Collaboration, ATL-PHYS-PUB-2022-042](https://cds.cern.ch/record/2825434)
 
 ## 2021
 

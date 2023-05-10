@@ -18,9 +18,7 @@ Here you find my current and past research results in ATLAS. For my past researc
 
 ## Searches for new low mass states in $$t\bar{t}a, a\to bb/\mu\mu$$ events
 
-| ![tta searches]({{"/images/ttamumu.png" | relative_url }}){: width="3500" } | In models of Higgs portals, the new scalar inherits Yukawa couplings from the SM Higgs and couples strongly to the top quark. We are exploring, for the first time, the process $$t\bar{t}a$$. This process is similar to $$t\bar{t}H$$, but with a low mass state which can deay to a pair of $$b$$-quarks ($$bb$$) or muons $$\mu\mu$$. The first result, with muons, has just been submitted for publication. The result with $$a$$ bosons decaying to $bb$$ will be published later in the summer. <br><br>**Participants**: Shreya Saha, Yuan-Tang Chou<br>**Collaborators**: Mc Gill, IFAE |
-
-
+In models of Higgs portals, the new scalar inherits Yukawa couplings from the SM Higgs and couples strongly to the top quark. We are exploring, for the first time, the process $$t\bar{t}a$$. This process is similar to $$t\bar{t}H$$, but with a low mass state which can deay to a pair of $$b$$-quarks ($$bb$$) or muons $$\mu\mu$$. The first result, with muons, has just been submitted for publication.
 
 ## Searches for exotic Higgs decays in the $$H\to aa\to 4b/2b2\tau/4\tau$$ final-state
 
@@ -40,7 +38,8 @@ Here you find my current and past research results in ATLAS. For my past researc
 
 ## NET2
 
-![MGHPCC]({{"/images/net2.jpg" | relative_url }}){: width="350" }
+![MGHPCC]({{"/images/net2.jpg" | relative_url }}){: width="350" } | In the United States, US-ATLAS operates one WLCG Tier 1 cluster (at Brookhaven National Lab) and
+four WLCG Tier 2 clusters. We are building a new Tier 2 at the [Massachusetts Green High Performance Computing Center](https://www.mghpcc.org/) (MGHPCC) called the **Northeast Tier 2** (NET2) cluster. The opportunity to build a system from scratch gives us the freedom to implement several improvements, something that would be challenging in a deployed system. NET2 operates purely over a kubernetes virtualization layer, allowing for seamless integration with other resources at the MGHPCC and outside. NET2 is also the first US ATLAS Tier 2 cluster to use a tape system for operations, a project developed in collaboration with [NESE](https://nese.mghpcc.org/) **Participants**:Eduardo Bach, Will Leight |
 
 ## ITk Pixel Inner System
 

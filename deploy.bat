@@ -1,4 +1,12 @@
 jekyll build
+git add .
+git commit -m"update"
+git push
+cd _site
+git add .
+git commit -m"update"
+git push
+cd ..
 del .\site.tar.gz
 tar.exe -cpzf site.tar.gz -C _site .
 scp site.tar.gz rclsa@webadmin.oit.umass.edu:./public_html/

@@ -4,7 +4,7 @@ date: 2019-02-28T15:15:34+10:00
 weight: 3
 ---
 
-Invited presentations.
+Invited presentations given by our group members.
 
 Talks given by students and postdoctoral researchers are marked.
 Conferences and seminars are clearly described.
@@ -16,19 +16,15 @@ Conferences and seminars are clearly described.
 **Measurement of the off-shell Higgs production with the ATLAS detector and the Higgs width**<br>
 SCIPP Seminar, Universtiy of California at Santa Cruz, CA, 2023.
 
+**Exploring EW symmetry breaking: Higgs, vector bosons, and top quarks**<br>
+APS April 2023: American Physical Society April Meeting 2023, Minneapolis, Minnesota, 2023.
+
 **ATLAS data analysis using a parallelized workflow on distributed cloud-based services with GPUs**<br>
 CHEP 2023: 26th International Conference on Computing in High Energy & Nuclear Physics, Norfolk, VA, 2023.<br>
 *Speaker*: Jay Sandesara
 
-**Family Planning and Caregiving Impacts on the Physics Community**<br>
-APS April 2023: American Physical Society April Meeting 2023, Minneapolis, Minnesota, 2023.<br>
-Panel organized by the APS Committee on the Status of Women in Physics (CSWP)
-
-**Exploring EW symmetry breaking: Higgs, vector bosons, and top quarks**<br>
-APS April 2023: American Physical Society April Meeting 2023, Minneapolis, Minnesota, 2023.
-
 **Quantum entanglement in ZZ leptonic decay channels**<br>
-Foundational tests of Quantum Mechanics at the LHC.<br>
+Foundational tests of Quantum Mechanics at the LHC, Oxford, UK, 2023.<br>
 *Speaker*: Martina Javurkova
 
 **Searches for BSM Physics in ATLAS**<br>

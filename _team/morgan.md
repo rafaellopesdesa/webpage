@@ -5,5 +5,5 @@ image: "images/team/morgan.png"
 jobtitle: "Undergraduate Student"
 current: true
 atlas: "https://www.linkedin.com/in/morgan-simco-3418a0166/"
-weight: 11
+weight: 12
 ---

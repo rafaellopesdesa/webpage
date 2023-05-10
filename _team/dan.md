@@ -5,5 +5,5 @@ image: "images/team/dan.jpeg"
 jobtitle: "Graduate Student"
 current: true
 linkedinurl: ""
-weight: 9
+weight: 10
 ---

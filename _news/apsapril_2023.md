@@ -1,5 +1,5 @@
 ---
-title: "Rafael chosen as UMass ADVANCE Faculty fellow in 2022-23"
+title: "Rafael gives two talks at APS April Meeting"
 date: 2023-04-15T00:00:00-5:00
 ---
 

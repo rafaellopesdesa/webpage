@@ -38,8 +38,7 @@ In models of Higgs portals, the new scalar inherits Yukawa couplings from the SM
 
 ## NET2
 
-![MGHPCC]({{"/images/net2.jpg" | relative_url }}){: width="350" } | In the United States, US-ATLAS operates one WLCG Tier 1 cluster (at Brookhaven National Lab) and
-four WLCG Tier 2 clusters. We are building a new Tier 2 at the [Massachusetts Green High Performance Computing Center](https://www.mghpcc.org/) (MGHPCC) called the **Northeast Tier 2** (NET2) cluster. The opportunity to build a system from scratch gives us the freedom to implement several improvements, something that would be challenging in a deployed system. NET2 operates purely over a kubernetes virtualization layer, allowing for seamless integration with other resources at the MGHPCC and outside. NET2 is also the first US ATLAS Tier 2 cluster to use a tape system for operations, a project developed in collaboration with [NESE](https://nese.mghpcc.org/) **Participants**:Eduardo Bach, Will Leight |
+![MGHPCC]({{"/images/net2.jpg" | relative_url }}){: width="6000" } | We are building a new Tier 2 at the [Massachusetts Green High Performance Computing Center](https://www.mghpcc.org/) (MGHPCC) called the **Northeast Tier 2** (NET2) cluster. The opportunity to build a system from scratch gives us the freedom to implement several improvements, something that would be challenging in a deployed system. NET2 operates purely over a kubernetes virtualization layer, allowing for seamless integration with other resources at the MGHPCC and outside. NET2 is also the first US ATLAS Tier 2 cluster to use a tape system for operations, a project developed in collaboration with [NESE](https://nese.mghpcc.org/).<br><br>**Participants**:Eduardo Bach, Will Leight |
 
 ## ITk Pixel Inner System
 

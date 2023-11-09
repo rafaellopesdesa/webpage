@@ -10,6 +10,12 @@ List of events organized by the UMass ATLAS group and held at Amherst
 
 All the events are held at the UMass [Institute for Applied Life Sciences](https://www.umass.edu/ials/).
 
+## 2023
+
+(21-23 Jun 2023) **US-ATLAS ITk Pixel Inner System Mechanical Testing**
+
+![Inner System Mechanics]({{"/images/itk_mechanics_testing.jpg" | relative_url }}){: width="500" }
+
 ## 2022
 
 (1-4 Aug 2022) [US-ATLAS Software and Computing Workshop](https://indico.cern.ch/event/1167456/)

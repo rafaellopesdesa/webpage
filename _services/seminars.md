@@ -13,6 +13,13 @@ Conferences and seminars are clearly described.
 
 ## 2023
 
+**Off-shell Higgs**<br>
+The 20th Workshop of the LHC Higgs Working Group.
+
+**NET2: a first example of OpenShift/OKD for Tier 2 provisioning and management in US ATLAS**<br>
+HEPiX Autumn 2023 Workshop.<br>
+*Speaker*: Eduardo Bach
+
 **Measurement of the off-shell Higgs production with the ATLAS detector and the Higgs width**<br>
 SCIPP Seminar, Universtiy of California at Santa Cruz, CA, 2023.
 
